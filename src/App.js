@@ -11,7 +11,7 @@ import five from './Images/five.jpg';
 import six from './Images/six.jpg';
 import seven from './Images/seven.jpg';
 
-const API_PATH = 'http://localhost:1992/nuethic/api/contact/index.php';
+const API_PATH = 'http://localhost:1992/nuethic/api/index.php';
 
 let array = [
   {
